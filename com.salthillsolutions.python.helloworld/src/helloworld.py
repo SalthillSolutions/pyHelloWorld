@@ -36,7 +36,7 @@ pygame.draw.line(windowSurface, BLUE, (120, 60), (60, 120))
 pygame.draw.line(windowSurface, BLUE, (60, 120), (120, 120), 4)
 
 # draw a blue circle onto the surface
-pygame.draw.circle(windowSurface, BLUE, (300, 50), 20, 0)
+pygame.draw.circle(windowSurface, GREEN, (300, 50), 20, 0)
 
 # draw a red ellipse onto the surface
 pygame.draw.ellipse(windowSurface, RED, (300, 250, 40, 80), 1)
